@@ -1,7 +1,7 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 
-const mongoose = request('mongoose')
+const mongoose = require('mongoose')
 
 const Promotions = require('../models/promotions')
 
